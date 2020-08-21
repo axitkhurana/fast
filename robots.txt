@@ -1,1 +1,1 @@
-Sitemap: https://axitkhurana.github.io/fast/sitemap.xml
+Sitemap: https://axitkhurana.github.io/blog/sitemap.xml
