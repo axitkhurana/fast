@@ -4,10 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Hi! I'm Akshit. I write about things I want to learn.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+If reading something on this blog led to the feeling "I must tell this person why they're wrong (or right)", email me at axitkhurana@gmail.com
